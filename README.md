@@ -1,3 +1,6 @@
+# WIP!
+Development of the stripped down version has not yet started! **DNU** 
+
 <p align="center">
   <img src="https://swiperjs.com/images/share-banner.jpg"/>
 </p>
